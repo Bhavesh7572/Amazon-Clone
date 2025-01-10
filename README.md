@@ -19,3 +19,4 @@ This is a simple Amazon clone built using HTML, CSS, and JavaScript. It replicat
 1. Clone the repository:
    git clone https://github.com/your-username/amazon-clone.git
 2. Open the project folder and launch index.html in your web browser.
+![screencapture-file-D-SEM-2-Amazon-index-html-2025-01-10-11_30_21](https://github.com/user-attachments/assets/f9391df9-9c5e-401c-921c-be1db19e46e2)
